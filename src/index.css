@@ -3,4 +3,8 @@
 @tailwind utilities;
 html {
   font-size: 14px;
+  height: 100%;
+}
+body {
+  min-height: 100%;
 }
